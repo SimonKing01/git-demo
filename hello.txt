@@ -18,6 +18,7 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!5555 master merge
+Hello git!5555 hot-test
 Hello git! 22222333333444
 1111111111111111111111111111111
 
